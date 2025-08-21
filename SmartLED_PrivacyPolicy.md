@@ -26,7 +26,7 @@ We store data on secure servers and use encryption. Passwords are never stored i
 
 ## User Rights
 You may request access, correction, or deletion of your data at any time.  
-Contact us at: **[your email]**.  
+Contact us at: **[Ngoctoan19999@gmail.com]**.  
 
 ## Children’s Privacy
 The app is not intended for children under 13. We do not knowingly collect data from children.  
@@ -72,7 +72,7 @@ Smart LED tôn trọng quyền riêng tư của bạn. Chính sách này giải 
 
 ## Quyền của bạn  
 - Yêu cầu truy cập, chỉnh sửa hoặc xóa thông tin cá nhân.  
-- Liên hệ qua email: **[địa chỉ email của bạn]**.  
+- Liên hệ qua email: **[Ngoctoan19999@gmail.com]**.  
 
 ## Quyền riêng tư trẻ em  
 Ứng dụng không dành cho trẻ dưới 13 tuổi. Chúng tôi không cố ý thu thập dữ liệu từ trẻ em.  
