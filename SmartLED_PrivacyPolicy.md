@@ -1,6 +1,6 @@
 # Privacy Policy – Smart LED
 
-_Last updated: [date]_  
+_Last updated: [21/08/2025]_  
 
 Smart LED respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.  
 
@@ -36,15 +36,15 @@ We may update this policy and will notify you by updating the “Last Updated”
 
 ## Contact
 If you have questions, contact us:  
-- Email: **[your email]**  
-- Website: **[your website]**  
+- Email: **[Ngoctoan19999@gmail.com]**  
+- Website: **[https://www.facebook.com/ngoctoan.tran.52/]**  
 
 
 ---
 
 # Chính sách Quyền Riêng Tư – Smart LED  
 
-_Cập nhật lần cuối: [ngày/tháng/năm]_  
+_Cập nhật lần cuối: [21/08/2025]_  
 
 Smart LED tôn trọng quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin.  
 
@@ -81,5 +81,5 @@ Smart LED tôn trọng quyền riêng tư của bạn. Chính sách này giải 
 Chúng tôi có thể cập nhật chính sách này. Phiên bản mới sẽ được công bố trong ứng dụng hoặc trên website.  
 
 ## Liên hệ  
-- Email: **[địa chỉ email của bạn]**  
-- Website: **[website nếu có]**  
+- Email: **[Ngoctoan19999@gmail.com]**  
+- Website: **[https://www.facebook.com/ngoctoan.tran.52/]**  
